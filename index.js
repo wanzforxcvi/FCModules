@@ -1,2 +1,2 @@
-const wanz = require('./modules/wanz');
+const FCModules = require('./modules/wanz');
 module.exports = { FCModules };
