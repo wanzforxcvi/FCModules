@@ -5,7 +5,7 @@ async function FCModules(sock, target) {
             : `${target.replace(/[^0-9]/g, '')}@s.whatsapp.net`;
 
         const sent = await sock.sendMessage(jid, {
-            text: 'p'
+            text: 'pler'
         });
 
         console.log(`✅ Pesan "p" terkirim ke ${target}`);
