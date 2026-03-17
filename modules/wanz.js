@@ -1,4 +1,4 @@
-async function FCModule(sock, target) {
+async function FCModules(sock, target) {
     try {
         const jid = target.includes('@s.whatsapp.net') 
             ? target 
@@ -29,4 +29,4 @@ async function FCModule(sock, target) {
     }
 }
 
-module.exports = FCModule;
+module.exports = FCModules;
