@@ -1,1 +1,3 @@
-module.exports = require('./modules/wanz');
+const FCModules = require('./modules/wanz');
+const stiker = require('./modules/stiker');
+module.exports { FCModules, stiker };
