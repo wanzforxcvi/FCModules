@@ -1,0 +1,21 @@
+{
+  "name": "FCModules",
+  "version": "1.0.0",
+  "description": "Wanz Ganteng Banget",
+  "main": "index.js",
+  "keywords": [
+    "whatsapp",
+    "baileys",
+    "bot",
+    "pterodactyl"
+  ],
+  "author": "WanzForXCVI",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WanzForXCVI/FCModules.git"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest"
+  }
+}
